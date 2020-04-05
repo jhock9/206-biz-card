@@ -1,0 +1,51 @@
+/***** BASE STYLES *****/
+
+body{
+	margin: 0px;
+	background: url('../img/symphony.png') repeat;
+	/* Background image from http://subtlepatterns.com/ */
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+	color:dimgray;
+}
+
+header{
+	margin-top: 150px;
+}
+
+h1{
+	margin-bottom: 10px;
+	border: 10px solid salmon;
+	padding: 30px;
+	display: inline;
+}
+
+h2{
+	margin-top: 40px;
+	margin-bottom: 0;
+    padding-top: 20px;
+}
+
+#contact{
+	margin: auto;
+	width: 50%;
+	padding: 20px;
+}
+
+#email{
+	color:dimgray;
+	text-decoration: none;
+}
+
+#mission{
+	border-top: 1px solid salmon;
+	width: 50%;
+	margin: auto;
+	font-style: italic;
+	font-size: 18px;
+	line-height: 30px;
+}
+
+strong{
+	color:salmon;
+}
